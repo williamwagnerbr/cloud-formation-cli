@@ -1,4 +1,4 @@
-# teewe-cli CLI
+# cloud-formation CLI
 
 A CLI for cloud-formation-cli.
 

@@ -1,7 +1,7 @@
 {
-  "name": "teewe-cli",
+  "name": "cloud-formation-cli",
   "version": "0.0.1",
-  "description": "teewe-cli CLI",
+  "description": "Cloud Formation tool CLI",
   "private": true,
   "bin": {
     "teewe-cli": "bin/teewe-cli"
