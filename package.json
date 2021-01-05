@@ -29,7 +29,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cfn": "^1.8.1",
     "gluegun": "^2.1.0",
     "ts-node": "^7.0.1",
